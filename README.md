@@ -1,3 +1,7 @@
+🎬 ReelGen AI - ⚡Create Less. Imagine More. Generate Faster. ⚡
+ReelGen AI is an AI-powered short-form video creation platform designed to simplify the process of creating engaging Instagram Reels, Stories, Shorts, and other vertical social content.
+
+Instead of manually planning scenes, selecting music, preparing captions, and rendering a video, ReelGen AI brings the workflow together inside one intelligent creative studio.
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
