@@ -1,0 +1,6 @@
+{
+  "name": "Insta_Content Maker(Video, Template)",
+  "description": "Generate 5 distinct high-converting original Instagram Shorts and YouTube Reels from text prompts, video links, and reference images with custom dynamically-matched music, real-time preview, HD export, and direct Instagram API publishing to profiles and stories.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
