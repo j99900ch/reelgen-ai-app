@@ -18,15 +18,11 @@ The long-term vision is to evolve the platform into an intelligent AI content pr
 → 📱 Publishing
 
 Instead of manually planning scenes, selecting music, preparing captions, and rendering a video, ReelGen AI brings the workflow together inside one intelligent creative studio.
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+<p align="center">
+  <img src="./assets/reelgen-ai-banner.png" width="1200" alt="ReelGen AI — AI-Powered Video Creation Studio" />
+</p>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/0841b11d-85bb-4f5b-beaa-e81172af6c3e
+# Run and deploy your ReelGen AI App
 
 ## Run Locally
 
