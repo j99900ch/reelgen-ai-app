@@ -1,13 +1,17 @@
-<div align="center">
+<p align="center">
   <img
-    src="./assets/reelgen-ai-banner.png"
+    src="https://raw.githubusercontent.com/j99900ch/reelgen-ai-app/main/assets/reelgen-ai-banner.png"
     width="1200"
     alt="ReelGen AI — AI-Powered Video Creation Studio"
   />
-</div>
+</p>
 
-🎬 ReelGen AI - ⚡Create Less. Imagine More. Generate Faster. ⚡
+# 🎬 ReelGen AI
+
+### ⚡ Create Less. Imagine More. Generate Faster. ⚡
+
 ReelGen AI is an AI-powered short-form video creation platform designed to simplify the process of creating engaging Instagram Reels, Stories, Shorts, and other vertical social content.
+
 🎯 Product Vision
 
 ReelGen AI is built around one goal:
@@ -26,13 +30,6 @@ The long-term vision is to evolve the platform into an intelligent AI content pr
 → 📱 Publishing
 
 Instead of manually planning scenes, selecting music, preparing captions, and rendering a video, ReelGen AI brings the workflow together inside one intelligent creative studio.
-<p align="center">
-  <img
-    src="./assets/reelgen-ai-banner.png"
-    width="1200"
-    alt="ReelGen AI — AI-Powered Video Creation Studio"
-  />
-</p>
 
 # Run and deploy your ReelGen AI App
 
