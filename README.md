@@ -19,7 +19,11 @@ The long-term vision is to evolve the platform into an intelligent AI content pr
 
 Instead of manually planning scenes, selecting music, preparing captions, and rendering a video, ReelGen AI brings the workflow together inside one intelligent creative studio.
 <p align="center">
-  <img src="./assets/reelgen-ai-banner.png" width="1200" alt="ReelGen AI — AI-Powered Video Creation Studio" />
+  <img
+    src="./assets/reelgen-ai-banner.png"
+    width="1200"
+    alt="ReelGen AI — AI-Powered Video Creation Studio"
+  />
 </p>
 
 # Run and deploy your ReelGen AI App
