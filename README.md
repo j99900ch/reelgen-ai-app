@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/j99900ch/reelgen-ai-app/main/assets/reelgen-ai-banner.png"
-    width="1200"
-    alt="ReelGen AI — AI-Powered Video Creation Studio"
-  />
-</p>
+![ReelGen AI — AI-Powered Video Creation Studio](./assets/reelgen-ai-banner.png)
 
 # 🎬 ReelGen AI
 
