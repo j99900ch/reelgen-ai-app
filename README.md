@@ -1,4 +1,4 @@
-![ReelGen AI — AI-Powered Video Creation Studio](./assets/reelgen-ai-banner.png)
+![ReelGen AI — AI-Powered Video Creation Studio](https://github.com/j99900ch/reelgen-ai-app/blob/main/assets/reelgen-ai-banner.png?raw=true)
 
 # 🎬 ReelGen AI
 
